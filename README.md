@@ -12,4 +12,4 @@ Die Befehle wurden nun so abgeändert, dass sie die Konsole auch steuern können
 2. Die Fixture Attributes, die ich kontrollieren will(Pan, Tilt, Zoom), kontrolliert werden können.
    
 11.06.24 (1.5h)
-Nach Herumstöbern in Internet-Foren und durchlesen der sehr vielen verschiedenen Befehle auf der GrandMA Software habe ich nun den Weg gefunden, um die gewünschten Attribute direkt ohne Faders anzusteuern. Der nächste Schritt wäre, mithilfe des Flightsticks in Python Input zu erhalten und die Lichter kontrollieren zu können.
+Nach Herumstöbern in Internet-Foren und durchlesen der sehr vielen verschiedenen Befehle auf der GrandMA Software habe ich nun den Weg gefunden, um die gewünschten Attribute direkt ohne Faders anzusteuern. Der nächste Schritt wäre, mithilfe des Flightsticks in Python Input zu erhalten und die Lichter kontrollieren zu können. (Ein erster Code-Snippet ist hochgeladen, um zu sehen wie die Bibliothek funktioniert).
